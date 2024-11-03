@@ -1,0 +1,2 @@
+# Delivery-System
+ A route optimization tool designed to streamline delivery operations by factoring in delivery times, locations, and load capacities based on item weight. This system intelligently assigns deliveries to drivers with specific capacity constraints, ensuring efficient route assignments and minimal backtracking. Key features include a map interface for visualizing orders and routes, logic for weight-based load limits, and optimized sequencing to meet delivery time windows. Built with Next.js and integrated with Google Maps.
